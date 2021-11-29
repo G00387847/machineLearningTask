@@ -14,7 +14,7 @@ Introduction
 
  you can view the notebook at the followinh URL
 
- https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/machineLearning.ipynb
+ [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/machineLearning.ipynb)
 
 
 Packages Use For The Project
