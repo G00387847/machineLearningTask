@@ -10,6 +10,12 @@ Introduction
 
  [Whatls.com](https://whatis.techtarget.com/definition/machine-learning-algorithm)
 
+ ## Quick steps
+
+ you can view the notebook at the followinh URL
+
+ https://github.com/G00387847/machineLearningTask
+
 
 Packages Use For The Project
 
