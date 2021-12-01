@@ -31,6 +31,14 @@ Numpy http://www.numpy.org/ - is the fundamental package for scientific computin
 
 Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
 
-Pandas https://pandas.pydata.org/
+[!Pandas](https://pandas.pydata.org/)
 
-Matplotlib https://matplotlib.org/
+[!Matplotlib] (https://matplotlib.org/)
+
+![scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
+
+[!sklearn.neighbors.KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier)
+
+[!sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+[!Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
