@@ -42,3 +42,5 @@ Jupyter Notebook https://jupyter.org/ - is an open-source web application that a
 [!sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
 [!Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+
+https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/scipy-stats.ipynb
