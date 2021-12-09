@@ -1,48 +1,38 @@
-# Macchine Learning and Statistics Task
+[GMIT logo](https://www.logolynx.com/topic/gmit#&gid=1&pid=2)
 
-*********
 
-# Overview to machine learning with Scikit-Learn
 
-https://scikit-learn.org/stable/tutorial/basic/tutorial.html#machine-learning-the-problem-setting
+# Machine Learning with Scikit-Learn Notebooks
 
-https://towardsdatascience.com/an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f
+This repository contains Jupyter notebooks and other relevant files demonstrating my work on the Python packages `pandas`, `numpy`, `matplotlib`, `seaborn` and `sklearn` for module machine learning and statistics
 
-https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
 
-********
 
-Introduction
+ ## Install
 
-******
 
- Scikit-learn is a very popular Python library for Machine Learning. Initially developed by David Cournapeau in 2007, it began to grow up in 2010, when INRIA, the French Institute for Research in Computer Science and Automation got involved into the project. In September 2021, the latest release of Scikit-learn was released, i.e. 1.0.
+ steps to install....
 
-Scikit-learn provides all the steps involved in the Machine Learning process, including Data Preprocessing, Feature Extraction, Model Selection, Model Training, Model Evaluation and Model Deployment.
+To run these notebook on your own notebook server, use these installation instructions. The instructions below will install everything you need and then start a Jupyter notebook
 
-Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python.
+1.  Install Anaconda from [here](https://docs.anaconda.com/anaconda/install/windows/), choose 64-bit Python 3.7 or higher.
+Note: if you already have conda installed, you can keep using it but it should be version 4.4.10 or later (as shown by: conda -V). If you have a previous version installed, you can update it using the command. 
+2. Get more stuff.
+3. Run commands.
 
-It is licensed under a permissive simplified BSD license and is distributed under many Linux distributions, encouraging academic and commercial use.
+## Run
 
-The library is built upon the SciPy (Scientific Python) that must be installed before you can use scikit-learn. 
+Here's how to run the project/notebooks:
 
-*******
-## The learning outcome will fall into few categories and I will demonstrate these three interesting scikit-learn algorithms
+1. open terminal
+2. Run Jupyter with scikit-learn and scipy-stats
+3. Go to browser
 
-- Classification
-
-- Regression
-
-- t-Test
-
-- One-Way Anova
-
- [Whatls.com](https://whatis.techtarget.com/definition/machine-learning-algorithm)
-
+ 
  ## Quick steps
+ ***
 
- you can view the notebooks at the followinh URL
-
+ You can view the notebooks at the following URL
       Scikit-learn.ipynb
  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/G00387847/machineLearningTask/blob/main/scikit-learn.ipynb)
   
@@ -50,7 +40,31 @@ The library is built upon the SciPy (Scientific Python) that must be installed b
  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/scipy-stats.ipynb)
 
 
-Packages Use For The Project
+## Explore
+
+
+Looking  at the two ntebooks in this repository in Jupyter. There is some interesting aspects:
+
+- The notebook `plots.ipynb` has different types of plot as example. You can edit the parameters of the plots to see different effects.
+
+- change the following code and see how the plot changes:
+
+```python
+
+def f(x):
+   return x * x
+```
+
+## Credit
+
+#### GMIT lecture Videos and Notebooks
+
+I heavily relied on the GMIT lecture videos and lecture notebooks in creating this repository. You can find it on here. 
+
+ [Machine Learning and Statistics](https://learnonline.gmit.ie/course/view.php?id=4153)
+
+
+## Packages Use For The Project
 
 ******
 
@@ -76,3 +90,8 @@ Jupyter Notebook https://jupyter.org/ - is an open-source web application that a
 
 [!Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 
+## contact
+
+*****
+
+[G0038784@gmit.ie](G0038784@gmit.ie)
