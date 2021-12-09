@@ -1,5 +1,12 @@
-[GMIT logo](https://www.logolynx.com/topic/gmit#&gid=1&pid=2)
+ You can view the notebooks at the following URL
 
+Scikit-learn.ipynb
+
+ [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/G00387847/machineLearningTask/blob/main/scikit-learn.ipynb)
+  
+Scipy-stats.ipynb
+ 
+ [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/scipy-stats.ipynb)
 
 
 # Machine Learning with Scikit-Learn Notebooks
@@ -16,7 +23,7 @@ This repository contains Jupyter notebooks and other relevant files demonstratin
 To run these notebook on your own notebook server, use these installation instructions. The instructions below will install everything you need and then start a Jupyter notebook
 
 1.  Install Anaconda from [here](https://docs.anaconda.com/anaconda/install/windows/), choose 64-bit Python 3.7 or higher.
-Note: if you already have conda installed, you can keep using it but it should be version 4.4.10 or later (as shown by: conda -V). If you have a previous version installed, you can update it using the command. 
+Note: if you already have Anaconda installed, you can keep using it but it should be version 4.4.10 or later (as shown by: Anaconda -V). If you have a previous version installed, you can update it using the command. 
 2. Get more stuff.
 3. Run commands.
 
@@ -32,12 +39,7 @@ Here's how to run the project/notebooks:
  ## Quick steps
  ***
 
- You can view the notebooks at the following URL
-      Scikit-learn.ipynb
- [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/G00387847/machineLearningTask/blob/main/scikit-learn.ipynb)
-  
-    Scipy-stats.ipynb
- [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/scipy-stats.ipynb)
+
 
 
 ## Explore
