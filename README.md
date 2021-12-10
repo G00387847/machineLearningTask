@@ -8,6 +8,7 @@ Scipy-stats.ipynb
  
  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/scipy-stats.ipynb)
 
+[Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn#/media/File:Scikit_learn_logo_small.svg)
 
 # Machine Learning with Scikit-Learn Notebooks
 
@@ -23,7 +24,7 @@ This repository contains Jupyter notebooks and other relevant files demonstratin
 To run these notebook on your own notebook server, use these installation instructions. The instructions below will install everything you need and then start a Jupyter notebook
 
 1.  Install Anaconda from [here](https://docs.anaconda.com/anaconda/install/windows/), choose 64-bit Python 3.7 or higher.
-Note: if you already have Anaconda installed, you can keep using it but it should be version 4.4.10 or later (as shown by: Anaconda -V). If you have a previous version installed, you can update it using the command. 
+Note: if you already have Anaconda installed, you can keep using it but it should be version 4.4.10 or later. If you have a previous version installed, you can update it using the command. `pip install update` on your Jupyter notebook.
 2. Get more stuff.
 3. Run commands.
 
@@ -35,15 +36,8 @@ Here's how to run the project/notebooks:
 2. Run Jupyter with scikit-learn and scipy-stats
 3. Go to browser
 
- 
- ## Quick steps
- ***
-
-
-
 
 ## Explore
-
 
 Looking  at the two ntebooks in this repository in Jupyter. There is some interesting aspects:
 
@@ -53,22 +47,28 @@ Looking  at the two ntebooks in this repository in Jupyter. There is some intere
 
 ```python
 
-def f(x):
-   return x * x
+def only_evens(arr):
+    new_arr = []
+    for x in arr:
+        if (x%2 == 0):
+            new_arr.append(x)
+    return new_arr
+
+ret = only_evens([1,2,3,4,5,6])
+print(ret)cd computer 
 ```
 
 ## Credit
 
-#### GMIT lecture Videos and Notebooks
+#### GMIT lecture Videos and ian mcloughlin... Github page
 
-I heavily relied on the GMIT lecture videos and lecture notebooks in creating this repository. You can find it on here. 
+I heavily relied on the GMIT lecture videos and ian mcloughlin github page in creating this repository. You can find it on here. 
 
- [Machine Learning and Statistics](https://learnonline.gmit.ie/course/view.php?id=4153)
+ [ian mcloughlin](https://github.com/ianmcloughlin)
 
 
 ## Packages Use For The Project
 
-******
 
 Python https://www.python.org/downloads/
 
