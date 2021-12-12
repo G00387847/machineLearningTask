@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/320px-Scikit_learn_logo_small.svg.png" alt="" id="yui_3_17_2_1_1639312711423_59">
+
  You can view the notebooks at the following URL
 
 Scikit-learn.ipynb
@@ -8,7 +10,6 @@ Scipy-stats.ipynb
  
  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00387847/machineLearningTask/blob/main/scipy-stats.ipynb)
 
-[Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn#/media/File:Scikit_learn_logo_small.svg)
 
 # Machine Learning with Scikit-Learn Notebooks
 
@@ -25,8 +26,7 @@ To run these notebook on your own notebook server, use these installation instru
 
 1.  Install Anaconda from [here](https://docs.anaconda.com/anaconda/install/windows/), choose 64-bit Python 3.7 or higher.
 Note: if you already have Anaconda installed, you can keep using it but it should be version 4.4.10 or later. If you have a previous version installed, you can update it using the command. `pip install update` on your Jupyter notebook.
-2. Get more stuff.
-3. Run commands.
+2. Run commands.
 
 ## Run
 
@@ -70,30 +70,31 @@ I heavily relied on the GMIT lecture videos and ian mcloughlin github page in cr
 ## Packages Use For The Project
 
 
-Python https://www.python.org/downloads/
+[Python](https://www.python.org/downloads/)
 
-Anaconda https://www.anaconda.com/distribution/ - is the easiest way to perfrom Python data science machine learning on Linux, Windows and Mac OS.
+[Anaconda](https://www.anaconda.com/distribution/)
 
-iPython https://ipython.org/ - it an interactive command-line terminal for Python.
+[iPython](https://ipython.org/) 
 
-Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
+[Numpy](http://www.numpy.org/) 
 
-Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
+[Jupyter Notebook](https://jupyter.org/) 
 
-[!Pandas](https://pandas.pydata.org/)
+[Pandas](https://pandas.pydata.org/)
 
-[!Matplotlib] (https://matplotlib.org/)
+[Matplotlib](https://matplotlib.org/)
 
-![scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
+[scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
 
-[!sklearn.neighbors.KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier)
+[sklearn.neighbors.KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors)
 
-[!sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
-[!Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+[sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+[Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 
 ## contact
 
 *****
 
-[G0038784@gmit.ie](G0038784@gmit.ie)
+[G0038784@gmit.ie](G0038784@gmit.ie) or christytex2000@yahoo.com
